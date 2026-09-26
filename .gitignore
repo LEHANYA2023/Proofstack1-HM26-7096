@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.env
-src/proofstack.db
-*.db
-.DS_Store
-node_modules/
-venv/
-.venv/
