@@ -63,7 +63,7 @@ HOW TO FILL THIS FILE
 |---|---|---|---|---|
 | 1 | [Pitch + Code Walkthrough Video](./resource-templates/video-guide.md) (≤ 10 min, MP4) | `<https://drive.google.com/file/d/.../view>` | `<TeamID>_video.mp4` | `<a1b2c3d4e5f60718>` |
 | 2 | [Decision Log](https://drive.google.com/file/d/1renGdTb0-WHvwGdiREkg2Q-lbIvVe7sy/view?usp=drive_link) (1 page, PDF) | `<https://drive.google.com/file/d/.../view>` | `<TeamID>_decision-log.pdf` | `<...>` |
-| 3 | [Presentation](./resource-templates/presentation-template.md) (≤ 10 slides, PDF) | `<https://drive.google.com/file/d/.../view>` | `<TeamID>_presentation.pdf` | `<...>` |
+| 3 | [Presentation] https://drive.google.com/file/d/1x0p9EBQFscnfKN5Ls2GQrdrAe28NClPA/view?usp=sharing (≤ 10 slides, PDF) | `<https://drive.google.com/file/d/.../view>` | `<TeamID>_presentation.pdf` | `<...>` |
 
 <!--
 Get the hash:
