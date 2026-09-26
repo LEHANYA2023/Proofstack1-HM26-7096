@@ -22,16 +22,16 @@ HOW TO FILL THIS FILE
 |---|---|
 | Team ID (from dashboard) | `HM26-7096` |
 | Team Name | `Zenith` |
-| College(s) | `<add college name(s)>` |
-| Team Leader | `Aditya Jeevan Naik` · `<add email>` · `<add phone>` |
-| Repository | `<add your GitHub repo URL after pushing>` |
+| College(s) | `MVJ COLLEGE OF ENGINEERING` |
+| Team Leader | `Aditya Jeevan Naik` · `naikaj1814@gmail.com` · `8722787848` |
+| Repository | `https://github.com/LEHANYA2023/proofstack-HM26-7096..git` |
 
 | # | Member | Program & Year | GitHub Handle | Primary Role |
 |---|---|---|---|---|
-| 1 | Aditya Jeevan Naik (Lead) | `<add>` | `@<add handle>` | `<add>` |
-| 2 | R V Lehanya | `<add>` | `@<add handle>` | `<add>` |
-| 3 | Rana Biswas | `<add>` | `@<add handle>` | `<add>` |
-| 4 | H S Amrutha | `<add>` | `@<add handle>` | `<add>` |
+| 1 | Aditya Jeevan Naik (Lead) | 'EC-ACT 4TH year` | `@NaikAdityaJeevan` | `ideation/deployement` |
+| 2 | R V Lehanya | `CSE-4th year` | `LEHANYA2023` | `frontend/backend` |
+| 3 | Rana Biswas | `CSE-4th year` | `Akash-hunter` | `ideation/database` |
+| 4 | H S Amrutha | `ECE-4th Year` | `hsamrutha19-bit` | `ideation/research` |
 
 ---
 
