@@ -123,4 +123,4 @@ Paste the first 16 characters.
 - [ ] No code specific to this challenge was written before 18 Sept 2026, 00:00 IST.
 - [ ] We will not modify or replace any linked file after 20 Sept 2026, 23:59 IST.
 
-**Submitted by:** `<Team Leader name>` · **Date/Time (IST):** `<20-09-2026 21:40>`
+**Submitted by:** ADITYA JEEVAN NAIK` · **Date/Time (IST):** `<27-09-2026 10:00>`
