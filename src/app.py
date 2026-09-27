@@ -96,9 +96,12 @@ def create_app():
     return app
 
 
+app = create_app()
+
+
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     # host="0.0.0.0" means the server accepts connections addressed to
     # 127.0.0.1, localhost, or the machine's LAN IP -- avoids the classic
     # "works on 127.0.0.1 but not localhost" (or vice versa) mismatch.
-    create_app().run(host="0.0.0.0", port=port, debug=True)
+    app.run(host="0.0.0.0", port=port, debug=True)
