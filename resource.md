@@ -93,11 +93,17 @@ Paste the first 16 characters.
 
 | Field | Value |
 |---|---|
-| Live URL | `<https://...>` |
+| Live URL | `<https://proofstack1-hm26-7096-6.onrender.com/student>` |
 | Platform | `<Web / PWA / Android APK link on Drive / ...>` |
-| Test login (if any) | Citizen: `<user / pass>` · Staff: `<user / pass>` · Admin: `<user / pass>` |
-| Sample data loaded? | `<Yes — 120 synthetic complaints across 6 wards>` |
-| How to test offline mode | `<one line>`. Full steps in [docs/setup.md](./docs/setup.md#testing-offline-mode) |
+| Test login (if any) |Seeded 4 portals — password for all: demo123
+  student      student@proofstack.dev
+  student      priya@proofstack.dev
+  student      nandini@proofstack.dev
+  student      rohan@proofstack.dev
+  expert       expert@proofstack.dev
+  recruiter    recruiter@proofstack.dev
+  institution  institution@proofstack.dev|
+
 | If the live link is down | Follow [docs/setup.md](./docs/setup.md) |
 
 ---
